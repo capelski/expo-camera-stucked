@@ -82,11 +82,12 @@ export default () => {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
     alignItems: "center",
+    flex: 1,
     justifyContent: "center",
   },
   text: {
+    color: "white",
     fontSize: 32,
   },
 });
